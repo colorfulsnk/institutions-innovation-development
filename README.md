@@ -8,10 +8,10 @@
 
 ## 课件目录 / Lecture Slides
 
-| 讲次 | 文件 |
-|------|------|
-| Lecture 1 | [PDF](Slides/Lecture%201.pdf) |
-| Lecture 2 | [PDF](Slides/Lecture%202.pdf) |
+| 讲次 | 主题 | 文件 |
+|------|------|------|
+| Lecture 1 | 制度与发展 | [PDF](Slides/Lecture%201.pdf) |
+| Lecture 2 | 创新与发展 | [PDF](Slides/Lecture%202.pdf) |
 
 > 课件将持续更新。
 
